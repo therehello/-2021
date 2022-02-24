@@ -2,4 +2,4 @@
 
 宗教竞赛数据包data.data
 
-[详细教程](https://www.therehello.top/ZJJS/)
+[详细教程](https://www.blog.therehello.top/ZJJS/)
